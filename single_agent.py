@@ -10,7 +10,7 @@ Usage:
 """
 
 import os
-import darkmatter as dm
+import darkmatter_sdk as dm
 
 MY_AGENT = os.environ["DARKMATTER_AGENT_A_ID"]
 

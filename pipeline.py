@@ -9,7 +9,7 @@ Usage:
 
 import os
 import sys
-import darkmatter as dm
+import darkmatter_sdk as dm
 
 # ── Config ────────────────────────────────────────────────────────────────────
 AGENT_A = os.environ["DARKMATTER_AGENT_A_ID"]   # researcher
