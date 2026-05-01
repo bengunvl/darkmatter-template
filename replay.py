@@ -9,7 +9,7 @@ Usage:
 
 import sys
 import json
-import darkmatter_sdk as dm
+import darkmatter as dm
 
 ctx_id = sys.argv[1] if len(sys.argv) > 1 else None
 mode   = sys.argv[2] if len(sys.argv) > 2 else "full"

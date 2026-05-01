@@ -10,7 +10,7 @@ Usage:
 
 import sys
 import os
-import darkmatter_sdk as dm
+import darkmatter as dm
 
 ctx_id = sys.argv[1] if len(sys.argv) > 1 else None
 if not ctx_id:
